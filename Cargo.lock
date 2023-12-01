@@ -208,6 +208,7 @@ dependencies = [
 name = "cch23-rafael"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "axum",
  "shuttle-axum",
  "shuttle-runtime",
